@@ -1,2 +1,2 @@
-worker: python3 -m miakhalifa
-ps:scale worker=1
+worker: python3 - ab nero
+ps:scale ab nero
